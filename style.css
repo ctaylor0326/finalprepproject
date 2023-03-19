@@ -23,47 +23,51 @@ h1 {
     visibility: visible;
     position: relative;
     left: 100px;
-    bottom: 267px;
+    bottom: 286px;
     height: 59px;
     width: 100px;
     background-color:rgba(240, 248, 255, 0);
 }
 .Flower1 p {
     visibility: hidden;
+    background-color: antiquewhite;
 }
 .Flower2 {
     visibility: visible;
     position: relative;
     left: 448px;
-    bottom: 336px;
+    bottom: 352px;
     height: 84px;
     width: 112px;
     background-color:rgba(0, 0, 255, 0);
 }
 .Flower2 p {
     visibility: hidden;
+    background-color: antiquewhite;
 }
 .Flower3 {
     visibility: visible;
     position: relative;
     left: 467px;
-    bottom: 278px;
+    bottom: 317px;
     height: 84px;
     width: 221px;
     background-color:rgba(137, 43, 226, 0);
 }
 .Flower3 p {
     visibility: hidden;
+    background-color: antiquewhite;
 }
 .Flower4 {
     visibility: visible;
     position: relative;
     left: 100px;
-    bottom: 417px;
+    bottom: 475px;
     height: 84px;
     width: 188px;
     background-color:rgba(128, 255, 0, 0);
 }
 .Flower4 p {
     visibility: hidden;
+    background-color: antiquewhite;
 }
