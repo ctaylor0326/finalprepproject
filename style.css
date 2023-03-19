@@ -32,7 +32,7 @@ h1 {
     visibility: hidden;
 }
 .Flower2 {
-    visibility: hidden;
+    visibility: visible;
     position: relative;
     left: 448px;
     bottom: 336px;
@@ -40,8 +40,11 @@ h1 {
     width: 112px;
     background-color:blue;
 }
-.Flower3 {
+.Flower2 p {
     visibility: hidden;
+}
+.Flower3 {
+    visibility: visible;
     position: relative;
     left: 467px;
     bottom: 278px;
@@ -49,12 +52,18 @@ h1 {
     width: 221px;
     background-color:blueviolet;
 }
-.Flower4 {
+.Flower3 p {
     visibility: hidden;
+}
+.Flower4 {
+    visibility: visible;
     position: relative;
     left: 100px;
     bottom: 417px;
     height: 84px;
     width: 188px;
     background-color:chartreuse;
+}
+.Flower4 p {
+    visibility: hidden;
 }
