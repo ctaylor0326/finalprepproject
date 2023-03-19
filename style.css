@@ -20,6 +20,7 @@ h1 {
 
   }
   .Flower1 {
+    visibility: hidden;
     position: relative;
     left: 100px;
     bottom: 267px;
@@ -28,6 +29,7 @@ h1 {
     background-color: aqua;
 }
 .Flower2 {
+    visibility: hidden;
     position: relative;
     left: 448px;
     bottom: 336px;
@@ -36,6 +38,7 @@ h1 {
     background-color:blue;
 }
 .Flower3 {
+    visibility: hidden;
     position: relative;
     left: 467px;
     bottom: 278px;
@@ -44,6 +47,7 @@ h1 {
     background-color:blueviolet;
 }
 .Flower4 {
+    visibility: hidden;
     position: relative;
     left: 100px;
     bottom: 417px;
