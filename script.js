@@ -1,3 +1,8 @@
-const h2 = document.createElement("h2")
-h2.textContent = "This content added by JavaScript";
-document.querySelector("body").appendChild(h2)
+
+
+const el = document.getElementById('peony');
+
+el.addEventListener('mouseover', function handleMouseOver() {
+    console.log('moused over')
+    el.style.visibility = 'visible';
+})
