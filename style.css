@@ -26,7 +26,7 @@ h1 {
     bottom: 267px;
     height: 59px;
     width: 100px;
-    background-color: aqua;
+    background-color:rgba(240, 248, 255, 0);
 }
 .Flower1 p {
     visibility: hidden;
@@ -38,7 +38,7 @@ h1 {
     bottom: 336px;
     height: 84px;
     width: 112px;
-    background-color:blue;
+    background-color:rgba(0, 0, 255, 0);
 }
 .Flower2 p {
     visibility: hidden;
@@ -50,7 +50,7 @@ h1 {
     bottom: 278px;
     height: 84px;
     width: 221px;
-    background-color:blueviolet;
+    background-color:rgba(137, 43, 226, 0);
 }
 .Flower3 p {
     visibility: hidden;
@@ -62,7 +62,7 @@ h1 {
     bottom: 417px;
     height: 84px;
     width: 188px;
-    background-color:chartreuse;
+    background-color:rgba(128, 255, 0, 0);
 }
 .Flower4 p {
     visibility: hidden;
