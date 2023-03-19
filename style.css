@@ -1,5 +1,53 @@
 body {
-    background: blue;
+    background-color: antiquewhite;
     border: burlywood;
     text-align: center;
+        
+  
+
+}
+h1 {
+    
+}
+.Garden {
+    height: 550px;
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .Garden img {
+
+  }
+  .Flower1 {
+    position: relative;
+    left: 100px;
+    bottom: 267px;
+    height: 59px;
+    width: 100px;
+    background-color: aqua;
+}
+.Flower2 {
+    position: relative;
+    left: 448px;
+    bottom: 336px;
+    height: 84px;
+    width: 112px;
+    background-color:blue;
+}
+.Flower3 {
+    position: relative;
+    left: 467px;
+    bottom: 278px;
+    height: 84px;
+    width: 221px;
+    background-color:blueviolet;
+}
+.Flower4 {
+    position: relative;
+    left: 100px;
+    bottom: 417px;
+    height: 84px;
+    width: 188px;
+    background-color:chartreuse;
 }
