@@ -20,13 +20,16 @@ h1 {
 
   }
   .Flower1 {
-    visibility: hidden;
+    visibility: visible;
     position: relative;
     left: 100px;
     bottom: 267px;
     height: 59px;
     width: 100px;
     background-color: aqua;
+}
+.Flower1 p {
+    visibility: hidden;
 }
 .Flower2 {
     visibility: hidden;
